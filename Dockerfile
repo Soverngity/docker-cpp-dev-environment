@@ -1,5 +1,5 @@
 # Ubuntu C++ 编译环境
-FROM ubuntu:20.04
+FROM ubuntu:ubuntu/mysql:8.0-20.04_beta
 
 LABEL version="v1" \
       maintainer="ZiFan <njustcxp@gmail.com>"
